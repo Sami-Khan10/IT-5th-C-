@@ -1,0 +1,14 @@
+C:\Users\Muhammad Sami\source\repos\Kissan Registration And Login System New\obj\Debug\Kissan_Registration_And_Login_System_New.Form1.resources
+C:\Users\Muhammad Sami\source\repos\Kissan Registration And Login System New\obj\Debug\Kissan_Registration_And_Login_System_New.frmRegister.resources
+C:\Users\Muhammad Sami\source\repos\Kissan Registration And Login System New\obj\Debug\Kissan_Registration_And_Login_System_New.Properties.Resources.resources
+C:\Users\Muhammad Sami\source\repos\Kissan Registration And Login System New\obj\Debug\Kissan Registration And Login System New.csproj.GenerateResource.cache
+C:\Users\Muhammad Sami\source\repos\Kissan Registration And Login System New\obj\Debug\Kissan Registration And Login System New.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Sami\source\repos\Kissan Registration And Login System New\bin\Debug\Kissan Registration And Login System New.exe.config
+C:\Users\Muhammad Sami\source\repos\Kissan Registration And Login System New\bin\Debug\Kissan Registration And Login System New.exe
+C:\Users\Muhammad Sami\source\repos\Kissan Registration And Login System New\bin\Debug\Kissan Registration And Login System New.pdb
+C:\Users\Muhammad Sami\source\repos\Kissan Registration And Login System New\obj\Debug\Kissan Registration And Login System New.exe
+C:\Users\Muhammad Sami\source\repos\Kissan Registration And Login System New\obj\Debug\Kissan Registration And Login System New.pdb
+C:\Users\Muhammad Sami\source\repos\Kissan Registration And Login System New\bin\Debug\db_users.accdb
+C:\Users\Muhammad Sami\source\repos\Kissan Registration And Login System New\bin\Debug\db_users.mdb
+C:\Users\Muhammad Sami\source\repos\Kissan Registration And Login System New\obj\Debug\Kissan Registration And Login System New.csproj.AssemblyReference.cache
+C:\Users\Muhammad Sami\source\repos\Kissan Registration And Login System New\obj\Debug\Kissan_Registration_And_Login_System_New.Menu.resources
